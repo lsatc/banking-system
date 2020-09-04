@@ -105,11 +105,14 @@ After confirming the account request, user can:
 
 
 ### Dynamic Password
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/60937471/92209676-a5ae5600-eea2-11ea-9226-e8030e1d733c.PNG" width="350" height="150">
 </p>
+
 #### Server
 using "QTCPServer" while the application is running a server is running too. it produces dynamic password when client requests.
+
 #### Socket
 another application is designed for client. using QTCPSocket user can request for dynamic password by (username-password-card number).
 
