@@ -1,7 +1,7 @@
 
 <br />
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/60937471/92208053-9ed21400-ee9f-11ea-8084-5f6b54372ea6.jpg" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/60937471/92208053-9ed21400-ee9f-11ea-8084-5f6b54372ea6.jpg" alt="Logo" width="120" height="120">
   
 
   <h3 align="center">Jahan Bank</h3>
@@ -104,6 +104,7 @@ After confirming the account request, user can:
 
 ### Dynamic Password
 ![screen2](https://user-images.githubusercontent.com/60937471/92209676-a5ae5600-eea2-11ea-9226-e8030e1d733c.PNG)
+
 #### Server
 using "QTCPServer" while the application is running a server is running too. it produces dynamic password when client requests.
 #### Socket
@@ -112,6 +113,7 @@ another application is designed for client. using QTCPSocket user can request fo
 ##### Note:The application only works when Server is connected, so Bank must be running
 ### ATM
 ![screen3](https://user-images.githubusercontent.com/60937471/92247198-20479780-eedc-11ea-8f05-9de7494e3884.PNG)
+<br>
 In this portal, the card number of origin and destination and amount of money as well as The specifications of the source card including CVV2 and dynamic password and the expiration date of the card are received card.
 then the money transfers.
 ## License
