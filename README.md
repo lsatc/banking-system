@@ -124,6 +124,7 @@ another application is designed for client. using QTCPSocket user can request fo
 <br>
 In this portal, the card number of origin and destination and amount of money as well as The specifications of the source card including CVV2 and dynamic password and the expiration date of the card are received card.
 then the money transfers.
+
 ## License
 
 Distributed under the MIT License.
