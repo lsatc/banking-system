@@ -37,7 +37,9 @@ an awsome banking system with ATM, Dynamic password ...    <br />
 
 
 ## About The Project
+<p align="center">
 <img src="https://user-images.githubusercontent.com/60937471/92209672-a47d2900-eea2-11ea-8de1-9a691f422065.PNG" width="700" height="500">
+    </p>
 
 In this project a banking system is implemented. In this system, you have two types of normal users and administrators.
 Users can open an account and perform related operations. The manager is also able to manage users and processes. Also
@@ -103,8 +105,9 @@ After confirming the account request, user can:
 
 
 ### Dynamic Password
+<p align="center">
 <img src="https://user-images.githubusercontent.com/60937471/92209676-a5ae5600-eea2-11ea-9226-e8030e1d733c.PNG" width="350" height="150">
-
+</p>
 #### Server
 using "QTCPServer" while the application is running a server is running too. it produces dynamic password when client requests.
 #### Socket
@@ -112,7 +115,9 @@ another application is designed for client. using QTCPSocket user can request fo
 
 ##### Note:The application only works when Server is connected, so Bank must be running
 ### ATM
-<img src="https://user-images.githubusercontent.com/60937471/92247198-20479780-eedc-11ea-8f05-9de7494e3884.PNG" width="300" height="400">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/60937471/92247198-20479780-eedc-11ea-8f05-9de7494e3884.PNG" width="350" height="400">
+</p>
 <br>
 In this portal, the card number of origin and destination and amount of money as well as The specifications of the source card including CVV2 and dynamic password and the expiration date of the card are received card.
 then the money transfers.
